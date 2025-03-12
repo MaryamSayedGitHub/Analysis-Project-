@@ -4,7 +4,8 @@ This project analyzes bike-sharing trip data to uncover trends related to trip d
 
 ---
 
-## 📊 Enhancing Insights with Numbers  
+## 📊 Enhancing Insights with Numbers  ![download](https://github.com/user-attachments/assets/f0b4c540-72d6-44b1-8f2f-1b086a4b8b34)
+
 
 ### 1️⃣ Quantify Trip Duration Differences  
 Rather than stating that customers have longer trip durations, provide exact values:  
